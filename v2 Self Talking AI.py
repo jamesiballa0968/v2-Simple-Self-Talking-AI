@@ -11,6 +11,8 @@ minutes = str((float(((60 * 24)*7)*4.3)*12) * age)
 hours = str(((float((24*7)*4.3)*12) * age))
 days = str(((float(7 * 4.3)*12) * age))
 
+
+
 print("--------------\nTRIVIA TIME!\n--------------\nThis is your age when translated to seconds:" + seconds + " seconds")
 print("This is your age when translated to minutes:" + minutes + " minutes")
 print("This is your age when translated to hours:" + hours + " hours")
